@@ -1,4 +1,4 @@
-🍽️ Zomato Data Analysis Dashboard (Power BI)
+🍽️ Zomato Data Analysis Dashboard 
 
 Description:
 
